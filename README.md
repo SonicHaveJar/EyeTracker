@@ -7,6 +7,10 @@
 ```
 pip install -r requirements.txt
 ```
+## Download shape predictor and haar cascade
+```
+sh download_assets.sh
+```
 ## Results
 <img src="./imgs/elon.jpg" width ="400"/><img src="./imgs/eyed-elon.jpg" width ="400"/>
 
